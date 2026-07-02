@@ -1,0 +1,1 @@
+var ALL_QUESTIONS = [{"chapter": "第1章 金属切削加工的基础理论", "type": "judge", "stem": "第Ⅰ变形区的主要特征是剪切面的滑移变形。", "options": ["正确", "错误"], "answer": 0, "score": 1.0}];
